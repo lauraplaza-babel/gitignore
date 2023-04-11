@@ -1,7 +1,7 @@
 node_modules/
 
 ## Ignora todos los archivos que comienzan con la letra z.
-z.*
+z*
 
 ## Ignora un archivo llamado .env
 .env
