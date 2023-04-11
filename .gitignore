@@ -8,4 +8,4 @@ z.*
 
 
 ## Ignora un directorio de nivel superior llamado artifacts.
-/artifacts
+artifacts/
